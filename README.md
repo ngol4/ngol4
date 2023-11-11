@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Linh 👩🏻‍💻 /h1>
+<h1 align="center">Hello there! I'm Linh 👩🏻‍💻 </h1>
 <h3 align="center"> Computer Science student at Aalto University 🌊 </h3>
 
 
@@ -29,6 +29,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngol4&show_icons=true&theme=algolia&include_all_commits=true&hide=css&layout=donut" alt="ngol4" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngol4&show_icons=true&theme=algolia&include_all_commits=true&hide=css&layout=donut" alt="ngol4" />
+</p>
 
