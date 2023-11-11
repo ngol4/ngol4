@@ -1,6 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Linh </h1>
 <h3 align="center">Computer Science student at Aalto University! </h3>
 
+<img src="http://ghchart.rshah.org/ngol4" alt="git_contributions"/> 
+
+
 
 
 - 📫 How to reach me: **linh.l.ngo@aalto.fi** 
