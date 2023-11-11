@@ -1,14 +1,15 @@
 <h1 align="center">Hello there! I'm Linh 👩🏻‍💻 </h1>
-<h3 align="center"> MS Computer Science student at Aalto University 🌊 </h3>
+<h3 align="center"> Pursuing my Masters in Computer Science at Aalto University 🌊 </h3>
 
 
+📚 Continuously learning and exploring new technologies to expand my knowledge
 
-- 📫 How to reach me: 📧 **linh.l.ngo@aalto.fi** 
+📫 Reach me at  **linh.l.ngo@aalto.fi** 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/linh-l-ngo/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/linh-l-ngo/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linh-l-ngo" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
