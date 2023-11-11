@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Linh 👩🏻‍💻 </h1>
-<h3 align="center"> Computer Science student at Aalto University 🌊 </h3>
+<h3 align="center"> MS Computer Science student at Aalto University 🌊 </h3>
 
 
 
